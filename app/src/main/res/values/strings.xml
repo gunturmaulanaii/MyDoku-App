@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyDoku</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MyDoku</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Reset</string>
+
+    <string name="aboutheader">MyDoku &#169; 2021</string>
+    <string name="abouttext">MyDoku adalah aplikasi yang berguna untuk mencatat pendapatan dan pengeluaran.</string>
+
+    <string name="messageWithLink"><a href="https://github.com/gunturmaulanaii">github.com/gunturmaulanaii</a></string>
+    <string name="messageWithLink2"><a href="https://fianekame.github.io/">fianekame.github.io</a></string>
+    <string name="messageWithLink3"><a href="https://www.flaticon.com/">www.flaticon.com</a></string>
+</resources>
